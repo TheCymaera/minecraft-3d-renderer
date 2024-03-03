@@ -13,7 +13,7 @@ Load a scene:
 /renderer3d rotatingCube
 ```
 
-Get a list of items for controlling the camera:
+Get items for controlling the camera:
 ```
 /renderer3d getItems
 ```
