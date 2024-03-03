@@ -1,0 +1,6 @@
+name: Renderer3D
+version: '${project.version}'
+main: com.heledron.minecraft.renderer3d.MyPlugin
+api-version: 1.18
+commands:
+  renderer3d:
